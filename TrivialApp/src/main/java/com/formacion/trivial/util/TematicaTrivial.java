@@ -7,7 +7,8 @@ public enum TematicaTrivial {
     DEPORTES("Deportes"),
     GEOGRAFIA("Geografía"),
     ARTE("Arte"),
-    ENTRETENIMIENTO("Entretenimiento");
+    ANIMALES("Animales"),
+    CURIOSIDADES("Curiosidades");
 
     private final String tema;
 
